@@ -7,7 +7,6 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-
 HOURS_PER_YEAR = 8760
 DEFAULT_YEAR = 2025  # année non bissextile
 
